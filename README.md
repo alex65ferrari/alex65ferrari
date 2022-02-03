@@ -1,16 +1,16 @@
-### Hi there 👋
+###### README.md
+## Alex Niccolò Ferrari 😺🥪
 
-<!--
-**alex65ferrari/alex65ferrari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Some of the projects I've been working on are:
 
-Here are some ideas to get you started:
+### 🐶 DoggoSium
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A Discord bot created specifically for my friend's server. Built with Discord.Js and a custom Backend server.
+
+> <https://github.com/alex65ferrari/DoggoSium>
+
+----
+
+Other projects:
+
+- 🏫 [/violamarchesini](https://github.com/alex65ferrari/violamarchesini) A prototype webpage for my school, created using Bootstrap.
