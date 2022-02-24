@@ -3,7 +3,7 @@
 Some of the projects I've been working on are:
 
 ### 🐶 [DoggoSium](https://github.com/alex65ferrari/DoggoSium)
-A Discord bot created specifically for my friend's server. Built with Discord.Js and a custom Backend server.
+A Discord bot created specifically for my friend's server. Built with Discord.Js (and a custom Backend server).
 
 
 #### Other projects:
